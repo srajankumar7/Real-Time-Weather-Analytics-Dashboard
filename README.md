@@ -35,6 +35,7 @@ Current Weather
 5-Day Forecast
 /forecast.json
 
+Deployment: https://freeweatherdashboard.netlify.app/
 
 Author
 Srajan Kumar
