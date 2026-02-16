@@ -1,4 +1,4 @@
-Weather Dashboard
+Real-Time Weather Analytics Dashboard
 
 A simple and clean Weather Dashboard built using Vue 3 that lets users check the current weather and 5-day forecast for any city.
 The app uses a real-time weather API and focuses on a smooth user experience with clear data and helpful states.
